@@ -77,6 +77,6 @@ The About page presents information about the Braude Analyzer website.
 The Contact page provides users with a convenient way to reach out for inquiries, support, or feedback. It includes:
 
 - A contact form for submitting messages
-- Contact details like email addresses or phone numbers
+- Contact details like email addresses or phone numbers<br>
 ![image](https://github.com/user-attachments/assets/89ac741b-6b3e-48e7-9cec-efbd0dc8dfb9)
 
