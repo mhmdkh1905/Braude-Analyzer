@@ -19,7 +19,7 @@ The header contains a navigation menu with the following options:
 
 ### Dark Mode Toggle:
 In the top-right corner, there's a moon/sun icon that toggles between light and dark modes for the website.
-<img src="https://github.com/user-attachments/assets/f8692a70-063a-41d1-a1d9-60aa57bcdfd0" width="600" height="500">
+<img src="https://github.com/user-attachments/assets/f8692a70-063a-41d1-a1d9-60aa57bcdfd0" width="1000" height="600">
 
 ### "Let's Start" Button:
 A green button on the home page that links to the Upload File page, where you can begin using the tool by uploading an Excel file.
@@ -27,7 +27,7 @@ A green button on the home page that links to the Upload File page, where you ca
 ---
 
 ## Upload File Page
-<img src="https://github.com/user-attachments/assets/21889772-1890-466c-93f6-e89e72f87bf5" width="600" height="500">
+<img src="https://github.com/user-attachments/assets/21889772-1890-466c-93f6-e89e72f87bf5" width="1000" height="600">
 
 ### How to Use:
 1. Upload an Excel file (or more than one) by clicking on the **Upload** button or by dragging and dropping the files.
@@ -38,12 +38,12 @@ A green button on the home page that links to the Upload File page, where you ca
 
 Example:
 
-<img src="https://github.com/user-attachments/assets/396eb707-3909-4317-87c6-627759451c6f" width="600" height="500">
+<img src="https://github.com/user-attachments/assets/396eb707-3909-4317-87c6-627759451c6f" width="1000" height="600">
 
 ---
 
 ## Combine Files Page
-<img src="https://github.com/user-attachments/assets/617cefff-60ed-4f74-ad22-94a268d39a7e" width="600" height="500">
+<img src="https://github.com/user-attachments/assets/617cefff-60ed-4f74-ad22-94a268d39a7e" width="1000" height="600">
 
 ### How to Use:
 1. Upload one or more Excel files by clicking on the rectangle or by dragging and dropping files.
@@ -54,7 +54,7 @@ Example:
 ---
 
 ## Comparison Page
-<img src="https://github.com/user-attachments/assets/34039830-9148-4051-b3c1-1179a8f1cf74" width="600" height="500">
+<img src="https://github.com/user-attachments/assets/34039830-9148-4051-b3c1-1179a8f1cf74" width="1000" height="600">
 
 ### How to Use:
 1. Upload one or more Excel files by clicking on the rectangle or by dragging and dropping files.
@@ -67,7 +67,7 @@ Example:
 
 ## About Page
 The About page presents information about the Braude Analyzer website.
-<img src="https://github.com/user-attachments/assets/5307f487-6e72-4399-bb42-0c3f45550196" width="600" height="500">
+<img src="https://github.com/user-attachments/assets/5307f487-6e72-4399-bb42-0c3f45550196" width="1000" height="600">
 
 ---
 
@@ -77,4 +77,4 @@ The Contact page provides users with a convenient way to reach out for inquiries
 - A contact form for submitting messages
 - Contact details like email addresses or phone numbers
 
-<img src="https://github.com/user-attachments/assets/89ac741b-6b3e-48e7-9cec-efbd0dc8dfb9" width="600" height="500">
+<img src="https://github.com/user-attachments/assets/89ac741b-6b3e-48e7-9cec-efbd0dc8dfb9" width="1000" height="600">
