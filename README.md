@@ -5,7 +5,7 @@ Braude Analyzer is a web-based tool for uploading, combining, and comparing Exce
 ---
 
 ## Home Page
-<img src="https://github.com/user-attachments/assets/5d47e753-78e4-4e62-a474-2dc48a05d92c" width="600" height="500">
+<img src="https://github.com/user-attachments/assets/5d47e753-78e4-4e62-a474-2dc48a05d92c" width="800" height="500">
 
 ### Navigation Menu:
 The header contains a navigation menu with the following options:
