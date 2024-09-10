@@ -5,6 +5,7 @@ Braude Analyzer is a web-based tool for uploading, combining, and comparing Exce
 ---
 
 ## Home Page
+![image](https://github.com/user-attachments/assets/5d47e753-78e4-4e62-a474-2dc48a05d92c)
 
 ### Navigation Menu:
 The header contains a navigation menu with the following options:
@@ -18,6 +19,7 @@ The header contains a navigation menu with the following options:
 
 ### Dark Mode Toggle:
 In the top-right corner, there's a moon/sun icon that toggles between light and dark modes for the website.
+![image](https://github.com/user-attachments/assets/f8692a70-063a-41d1-a1d9-60aa57bcdfd0)
 
 ### "Let's Start" Button:
 A green button on the home page that links to the Upload File page, where you can begin using the tool by uploading an Excel file.
@@ -25,6 +27,7 @@ A green button on the home page that links to the Upload File page, where you ca
 ---
 
 ## Upload File Page
+![image](https://github.com/user-attachments/assets/21889772-1890-466c-93f6-e89e72f87bf5)
 
 ### How to Use:
 1. Upload an Excel file (or more than one) by clicking on the **Upload** button or by dragging and dropping the files.
@@ -35,11 +38,13 @@ A green button on the home page that links to the Upload File page, where you ca
 
 Example:
 
-![Graph Example](your-graph-image-link-here)
+![image](https://github.com/user-attachments/assets/396eb707-3909-4317-87c6-627759451c6f)
+
 
 ---
 
 ## Combine Files Page
+![image](https://github.com/user-attachments/assets/617cefff-60ed-4f74-ad22-94a268d39a7e)
 
 ### How to Use:
 1. Upload one or more Excel files by clicking on the rectangle or by dragging and dropping files.
@@ -50,6 +55,8 @@ Example:
 ---
 
 ## Comparison Page
+![image](https://github.com/user-attachments/assets/34039830-9148-4051-b3c1-1179a8f1cf74)
+
 
 ### How to Use:
 1. Upload one or more Excel files by clicking on the rectangle or by dragging and dropping files.
@@ -62,6 +69,7 @@ Example:
 
 ## About Page
 The About page presents information about the Braude Analyzer website.
+![image](https://github.com/user-attachments/assets/5307f487-6e72-4399-bb42-0c3f45550196)
 
 ---
 
@@ -70,3 +78,5 @@ The Contact page provides users with a convenient way to reach out for inquiries
 
 - A contact form for submitting messages
 - Contact details like email addresses or phone numbers
+![image](https://github.com/user-attachments/assets/89ac741b-6b3e-48e7-9cec-efbd0dc8dfb9)
+
