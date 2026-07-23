@@ -1,80 +1,309 @@
-# Braude-Analyzer
+# 📊 Braude Analyzer
 
-Braude Analyzer is a web-based tool for uploading, combining, and comparing Excel files. It also allows users to visualize data using various chart types. The website is designed to be user-friendly with features like drag-and-drop file uploads, file previews, and downloadable results.
+A web-based Excel analysis platform that allows users to upload, preview, combine, compare, visualize, and export spreadsheet data through a simple and responsive interface.
 
----
-
-## Home Page
-<img src="https://github.com/user-attachments/assets/5d47e753-78e4-4e62-a474-2dc48a05d92c" width="800" height="600">
-
-### Navigation Menu:
-The header contains a navigation menu with the following options:
-
-- **Home:** Takes you to the main page (currently displayed).
-- **Upload File:** Takes you to the upload file page.
-- **Combine Files:** Takes you to the combine files page.
-- **Comparison:** Takes you to the comparison page.
-- **About:** Takes you to the about page.
-- **Contact:** Takes you to the contact page.
-
-### Dark Mode Toggle:
-In the top-right corner, there's a moon/sun icon that toggles between light and dark modes for the website.
-<img src="https://github.com/user-attachments/assets/f8692a70-063a-41d1-a1d9-60aa57bcdfd0" width="800" height="600">
-
-### "Let's Start" Button:
-A green button on the home page that links to the Upload File page, where you can begin using the tool by uploading an Excel file.
+Braude Analyzer was designed to make working with multiple Excel files easier for users who do not want to manually process or compare spreadsheet data.
 
 ---
 
-## Upload File Page
-<img src="https://github.com/user-attachments/assets/21889772-1890-466c-93f6-e89e72f87bf5" width="800" height="600">
+## Overview
 
-### How to Use:
-1. Upload an Excel file (or more than one) by clicking on the **Upload** button or by dragging and dropping the files.
-2. If you've selected a file by mistake, you can delete it by clicking the **Remove** button next to the file.
-3. Choose one of the uploaded Excel files and press the **Upload** button.
-4. Select a chart type for data visualization.
-5. Choose the **X-Axis** and **Y-Axis**, and the corresponding chart will be displayed.
+Braude Analyzer provides a collection of tools for working with Excel files directly from the browser.
 
-Example:
+Users can:
 
-<img src="https://github.com/user-attachments/assets/396eb707-3909-4317-87c6-627759451c6f" width="800" height="600">
+* Upload one or multiple Excel files
+* Preview spreadsheet data
+* Visualize columns using different chart types
+* Combine selected columns from multiple files
+* Compare files based on shared columns
+* Download processed data as a new Excel file
+* Switch between light and dark modes
 
----
-
-## Combine Files Page
-<img src="https://github.com/user-attachments/assets/617cefff-60ed-4f74-ad22-94a268d39a7e" width="800" height="600">
-
-### How to Use:
-1. Upload one or more Excel files by clicking on the rectangle or by dragging and dropping files.
-2. If you select a file by mistake, you can delete or replace it using the appropriate buttons.
-3. Select the columns you want to combine. The selected columns will be displayed in the preview area, showing the rows and data.
-4. Download the combined data as an Excel file by pressing the **Download Combined Excel** button.
+The application focuses on making data analysis accessible through an easy-to-use visual interface.
 
 ---
 
-## Comparison Page
-<img src="https://github.com/user-attachments/assets/34039830-9148-4051-b3c1-1179a8f1cf74" width="800" height="600">
+## Main Features
 
-### How to Use:
-1. Upload one or more Excel files by clicking on the rectangle or by dragging and dropping files.
-2. If you've selected a file by mistake, you can delete or replace it using the appropriate buttons.
-3. The website will display the shared columns between the files.
-4. Press **Show Original Files** to see a section of rows for each file.
-5. Press **Hide Original Fields** to hide the rows for all files.
+### Excel File Upload
+
+* Upload files using a file picker
+* Drag and drop Excel files
+* Upload multiple files
+* Preview selected files
+* Remove or replace files before processing
+* Validate selected files before analysis
+
+### Data Visualization
+
+* Select an uploaded Excel file
+* Choose columns for the X-axis and Y-axis
+* Select from different chart types
+* Generate visual representations of spreadsheet data
+* Update visualizations based on selected columns
+
+### File Combination
+
+* Upload multiple Excel files
+* Select columns from each file
+* Preview selected data
+* Combine information into one dataset
+* Download the result as a new Excel file
+
+### File Comparison
+
+* Upload multiple Excel files
+* Detect shared columns
+* Compare file structures and data
+* Preview rows from original files
+* Show or hide original file data
+
+### User Interface
+
+* Responsive page layouts
+* Drag-and-drop upload areas
+* Navigation between analysis tools
+* Light and dark themes
+* Clear file previews
+* Downloadable results
 
 ---
 
-## About Page
-The About page presents information about the Braude Analyzer website.
-<img src="https://github.com/user-attachments/assets/5307f487-6e72-4399-bb42-0c3f45550196" width="800" height="600">
+## Screenshots
+
+### Home Page
+
+The homepage introduces the platform and provides quick access to its main tools.
+
+<img src="https://github.com/user-attachments/assets/5d47e753-78e4-4e62-a474-2dc48a05d92c" width="800" alt="Braude Analyzer homepage">
+
+### Dark Mode
+
+The application supports both light and dark themes.
+
+<img src="https://github.com/user-attachments/assets/f8692a70-063a-41d1-a1d9-60aa57bcdfd0" width="800" alt="Braude Analyzer dark mode">
+
+### Upload and Visualization
+
+Users can upload Excel files, select data columns, and generate charts.
+
+<img src="https://github.com/user-attachments/assets/21889772-1890-466c-93f6-e89e72f87bf5" width="800" alt="Excel upload page">
+
+<img src="https://github.com/user-attachments/assets/396eb707-3909-4317-87c6-627759451c6f" width="800" alt="Excel data visualization">
+
+### Combine Files
+
+Users can select columns from multiple Excel files and export the combined result.
+
+<img src="https://github.com/user-attachments/assets/617cefff-60ed-4f74-ad22-94a268d39a7e" width="800" alt="Combine Excel files page">
+
+### Compare Files
+
+The comparison page identifies shared columns and displays data from the uploaded files.
+
+<img src="https://github.com/user-attachments/assets/34039830-9148-4051-b3c1-1179a8f1cf74" width="800" alt="Compare Excel files page">
+
+### About Page
+
+<img src="https://github.com/user-attachments/assets/5307f487-6e72-4399-bb42-0c3f45550196" width="800" alt="Braude Analyzer about page">
+
+### Contact Page
+
+<img src="https://github.com/user-attachments/assets/89ac741b-6b3e-48e7-9cec-efbd0dc8dfb9" width="800" alt="Braude Analyzer contact page">
 
 ---
 
-## Contact Page
-The Contact page provides users with a convenient way to reach out for inquiries, support, or feedback. It includes:
+## How It Works
 
-- A contact form for submitting messages
-- Contact details like email addresses or phone numbers
+### Visualize Excel Data
 
-<img src="https://github.com/user-attachments/assets/89ac741b-6b3e-48e7-9cec-efbd0dc8dfb9" width="800" height="600">
+1. Open the Upload File page.
+2. Upload an Excel file.
+3. Select the file you want to analyze.
+4. Choose a chart type.
+5. Select the X-axis and Y-axis columns.
+6. View the generated chart.
+
+### Combine Excel Files
+
+1. Open the Combine Files page.
+2. Upload two or more Excel files.
+3. Select the required columns from each file.
+4. Preview the selected data.
+5. Combine the files.
+6. Download the generated Excel file.
+
+### Compare Excel Files
+
+1. Open the Comparison page.
+2. Upload multiple Excel files.
+3. View the shared columns detected by the application.
+4. Display rows from the original files.
+5. Compare the available data and structures.
+
+---
+
+## Technology Stack
+
+Update this section so it matches the technologies actually used in the project.
+
+| Technology     | Purpose                            |
+| -------------- | ---------------------------------- |
+| React          | User interface                     |
+| JavaScript     | Application logic                  |
+| HTML5          | Page structure                     |
+| CSS3           | Styling and responsive design      |
+| React Router   | Client-side navigation             |
+| SheetJS / XLSX | Reading and generating Excel files |
+| Chart library  | Data visualization                 |
+| Vite           | Development and build tool         |
+
+> Replace “Chart library” with the actual library used, such as Chart.js or Recharts.
+
+---
+
+## Project Structure
+
+Update the folder names below if your project structure is different.
+
+```text
+src/
+├── components/
+│   ├── layout/
+│   ├── navigation/
+│   ├── fileUpload/
+│   ├── filePreview/
+│   └── charts/
+├── pages/
+│   ├── home/
+│   ├── upload/
+│   ├── combine/
+│   ├── comparison/
+│   ├── about/
+│   └── contact/
+├── services/
+│   └── excelProcessing/
+├── utils/
+│   └── fileHelpers/
+├── router/
+├── App.jsx
+└── main.jsx
+```
+
+---
+
+## My Contribution
+
+Braude Analyzer was developed as a project for processing and analyzing Excel files.
+
+My contributions included:
+
+* Building responsive application pages
+* Implementing drag-and-drop Excel uploads
+* Reading and previewing spreadsheet data
+* Developing file-combination workflows
+* Implementing comparison of shared columns
+* Creating downloadable Excel results
+* Adding data visualization functionality
+* Building light and dark theme support
+* Creating reusable frontend components
+* Handling user input and file validation
+* Debugging Excel-processing and display issues
+
+> Keep only the items that accurately describe your personal work.
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+Make sure the following are installed:
+
+* Node.js 18 or newer
+* npm
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/mhmdkh1905/Braude-Analyzer.git
+cd Braude-Analyzer
+```
+
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start the Development Server
+
+```bash
+npm run dev
+```
+
+Open the application at:
+
+```text
+http://localhost:5173
+```
+
+### Create a Production Build
+
+```bash
+npm run build
+```
+
+### Preview the Production Build
+
+```bash
+npm run preview
+```
+
+---
+
+## Supported Files
+
+The application is intended to work with Excel spreadsheet formats such as:
+
+```text
+.xlsx
+.xls
+```
+
+Only keep both formats here if the application actually supports them.
+
+---
+
+## Future Improvements
+
+* Add support for CSV files
+* Add additional chart types
+* Add advanced filtering and sorting
+* Add spreadsheet data cleaning tools
+* Add duplicate-row detection
+* Improve handling of large Excel files
+* Add clearer validation and error messages
+* Add chart export as PNG or PDF
+* Add saved analysis sessions
+* Add automated tests
+* Improve accessibility
+* Improve mobile and tablet layouts
+
+---
+
+## Author
+
+**Mohammad Khateeb**
+
+* [GitHub](https://github.com/mhmdkh1905)
+* [LinkedIn](https://www.linkedin.com/in/mohammad-khateeb-891332303)
+* [Email](mailto:mhmd52kh@gmail.com)
+
+---
+
+## License
+
+This project was developed for educational and portfolio purposes.
